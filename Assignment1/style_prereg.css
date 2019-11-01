@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12;
+  text-align: left;
+  margin-top:inherit;
+  margin: auto;
+}
+.logo {
+   width: 300px;
+   height: 85px;
+   margin-left: 1220px;
+}
+
+.triangle{
+  clip-path: polygon(100% 50%, 0% 0%, 0% 100%);
+  width : 900px;
+  margin-top: 0px;
+  height : 550px;
+}
+
+div {
+  margin-top: 100px;
+  width: 550px;
+  float: right;
+  font-size: 12px;
+}
+.remember-me {
+  font-weight: bold;
+}
+.dwld_img{
+  color: #660033;
+  margin-left: 0;
+  margin: auto;
+  bottom: 100px;
+}
+.footer{
+  text-decoration: none;
+  color: #0BB4AE;
+}
+hr {
+  border: 2px solid #0BB4AE;
+  margin-left: 0px;
+  text-align: left;
+  width: 70px;
+}
+input{
+  padding: 8px 35px;
+  text-align: inherit;
+}
+button{
+  padding: 8px 35px;
+  width: 225px;
+  text-align: center;
+  font-weight: bold;
+}
+
+footer {
+  position: fixed;
+  margin-left: 1230px;
+  bottom: 100px;
+}
